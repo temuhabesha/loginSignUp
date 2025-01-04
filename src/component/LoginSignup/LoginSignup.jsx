@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Loginsignup from './Loginsignup.css'
+import './LoginSignup.css'
 import { FaUserAlt } from "react-icons/fa";
 import { MdOutlineMail } from "react-icons/md";
 import { RiLockPasswordLine } from "react-icons/ri";
